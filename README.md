@@ -28,6 +28,13 @@
 * Usa avisos y prográmate tus tareas
 * Aprende a decir a quien te reclama algo que lo harás en "tal fecha" no ponerte a hacerlo directamente.
 
+## Proyectos
+
+* **Es estupendo empezar muchos proyectos, pero lo mejor es terminarlos**
+* Intenta enseñar a tu gente (a la familia, en el blog, en presentaciones, charlas,... y si eres capaz de venderlos ¡¡¡mucho mejor!!!) tus proyectos, eso te obligará a terminarlos.
+* Involucra a gente en tus proyectos, te ayudará a que tengas que acabarlos...
+* Dedica algún "descanso" a ver **la gran cantidad que tienes sin terminar**, a ver si aprendes, ...
+
 ## Redes sociales
 
 * Ten claro que **el mundo no va acabarse sin que te enteres** no pasa nada por no mirar twitter en 2 horas.
