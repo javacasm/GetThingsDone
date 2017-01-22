@@ -14,7 +14,7 @@
 
 * Trabaja cómodo, en un sitio con luz natural, pero a ser posible no rodeado de todos esos proyectos que tienes a medias y a los que estás deseando dedicarles tiempo: si eres capaz de concentrarte en lo que tienes que hacer pronto podrás terminarlos
 * Concéntrate en terminar 1 cosa cada vez, si te viene una idea o tienes una interrupción, apunta en la libreta todo lo necesario para luego recuperarla (no estamos para perderlas) pero oblígate a terminar con lo que estabas
-* Guardar registro de tus avances
+* Guardar registro de tus avances y utiliza alguna métrica para medirlos
 * Cuando la termines date 10 minutos (pero no más) para algún proyectillo rápido/redes sociales: el mundo no va acabarse sin que te enteres
 
 ## Redes sociales
