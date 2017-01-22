@@ -43,7 +43,7 @@
 * Cuando actualices/trabajes un proyecto
   * Si es en la libreta acaba con una foto para ver los cambios
   * Si es en el ordenador, anota la fecha
-  
+
 ## Redes sociales
 
 * Ten claro que **el mundo no va acabarse sin que te enteres** no pasa nada por no mirar twitter en 2 horas.
