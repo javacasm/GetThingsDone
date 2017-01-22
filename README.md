@@ -16,7 +16,7 @@
 * Concéntrate en terminar 1 cosa cada vez: la multitarea es un mito. Necesitas enfocarte en la tarea para resolverla rápido y bien.
 * Cuando termines un paso si tienes claro cómo dar el siguiente, déjate una pequeña nota para evitar tener que empezar.
 * Si te viene una idea (o tienes una interrupción), apunta en la libreta todo lo necesario para luego recuperarla (no estamos para perderlas)  y resolverla pero oblígate a terminar con lo que estabas.
-* Habilita un segundo mini-puesto de trabajo más incómodo (un portátil?) para cuando tienes una interrupción/tarea rápida: Qué sea ir y volver a tu tarea principal.
+* Habilita un segundo mini-puesto de trabajo más incómodo (un portátil) para cuando tienes una interrupción/tarea rápida: Qué sea ir y volver a tu tarea principal, al ser incómodo te recordará que "va a ser sólo un momento". Pero no lo dejes abierto o ten vendrán más interrupciones. 
 * Guardar registro de tus avances y utiliza alguna **métrica** (¿github?) para medirlos.
   * Mide el trabajo/esfuerzo (número de commits/líneas)
   * Mide las tareas resueltas
