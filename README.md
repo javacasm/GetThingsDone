@@ -34,6 +34,7 @@
 * Optimiza tu tiempo y no lo pierdas revisando cuentas que no te interesan.
 * Hazte listas con las cuentas que realmente te gusta leer. Tu TL tiene demasiadas cuentas a las que sigues por seguir.
 * Si encuentras algo que te interesa, no dejes abierta una pestaña en tu navegador, guarda el contenido **etiquetado**.
+* Si has aprovechado un "descanso" (café o similar) para ponerte al día en la redes, no lo vuelvas a hacer cuando te sientes.
 
 ## Gestión de la información
 
