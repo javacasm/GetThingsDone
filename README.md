@@ -21,7 +21,7 @@
 * Guarda registro de tus avances y utiliza alguna **métrica** (¿github?) para medirlos.
   * Mide el trabajo/esfuerzo (número de commits/líneas)
   * Mide las tareas resueltas
-* Cuando la termines una tarea, date 10 minutos (pero no más) de **descanso** y dedícalo a algún proyectillo rápido/redes sociales:
+* Cuando la termines una tarea, date 10 minutos (pero no más) de **descanso** y dedícalo a algún proyectillo rápido/redes sociales. Aprovecha para ir al baño, rellenar la botella de agua...
 * Muévete cada hora, si es posible sube y baja escaleras. Una comba para dar unos saltos sería ideal.
 
 ## Planificación
