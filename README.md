@@ -39,4 +39,4 @@
 
 * No sirve de nada acumular 200 pestañas en el navegador, dedica algo de tiempo de "descanso" a organizar esa información. No olvides etiquetarla.
 * Usa gestores como **Pocket**
-* Utiliza un sistema que te permita acceder a toda la información como **Dropbox** o similar
+* Utiliza un sistema que te permita acceder a toda la información como **Dropbox** o similar. Si te permite cuantificar tu trabajo como git, mejor que mejor.
