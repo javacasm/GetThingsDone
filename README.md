@@ -14,18 +14,20 @@
 
 * Trabaja cómodo, en un sitio con luz natural, pero a ser posible no rodeado de todos esos proyectos que tienes a medias y a los que estás deseando dedicarles tiempo: si eres capaz de concentrarte en lo que tienes que hacer pronto podrás terminarlos
 * Concéntrate en terminar 1 cosa cada vez: la multitarea es un mito. Necesitas enfocarte en la tarea para resolverla rápido y bien.
-* Cuando termines un paso si tienes claro cómo dar el siguiente, déjate una pequeña nota para evitar tener que empezar.
+* Evita tener abierto en el ordenador varios proyectos, sólo puedes trabajar en 1
+* Cuando termines un paso de una tarea si tienes claro cómo dar el siguiente, déjate una pequeña nota para evitar tener que empezar de nuevo cuando lo retomes
 * Si te viene una idea (o tienes una interrupción), apunta en la libreta todo lo necesario para luego recuperarla (no estamos para perderlas)  y resolverla pero oblígate a terminar con lo que estabas.
-* Habilita un segundo mini-puesto de trabajo más incómodo (un portátil) para cuando tienes una interrupción/tarea rápida: Qué sea ir y volver a tu tarea principal, al ser incómodo te recordará que "va a ser sólo un momento". Pero no lo dejes abierto o ten vendrán más interrupciones. 
-* Guardar registro de tus avances y utiliza alguna **métrica** (¿github?) para medirlos.
+* Habilita un segundo mini-puesto de trabajo más incómodo (un portátil) para cuando tienes una interrupción/tarea rápida: Qué sea ir y volver a tu tarea principal, al ser incómodo te recordará que "va a ser sólo un momento". Pero no lo dejes abierto o ten vendrán más interrupciones.
+* Guarda registro de tus avances y utiliza alguna **métrica** (¿github?) para medirlos.
   * Mide el trabajo/esfuerzo (número de commits/líneas)
   * Mide las tareas resueltas
 * Cuando la termines una tarea, date 10 minutos (pero no más) de **descanso** y dedícalo a algún proyectillo rápido/redes sociales:
-* Intenta tener que moverte cada hora, si es posible sube y baja escaleras. Una comba para dar unos saltos sería ideal.
+* Muévete cada hora, si es posible sube y baja escaleras. Una comba para dar unos saltos sería ideal.
 
 ## Planificación
 
-* Intenta tener planificado lo que vas a hacer cada día y que no se el "destino" el que te lleve a hacer algo.
+* Intenta tener planificado lo que vas a hacer cada día y que no sea el "destino" (en forma de correo/llamada o tweet) el que te lleve a hacer una cosa u otra.
+* Pon fechas a las cosas, aunque sólo sean tentativas.
 * Usa avisos y prográmate tus tareas
 * Aprende a decir a quien te reclama algo que lo harás en "tal fecha" no ponerte a hacerlo directamente.
 
