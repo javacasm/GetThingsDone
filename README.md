@@ -57,3 +57,7 @@
 * No sirve de nada acumular 200 pestañas en el navegador, dedica algo de tiempo de "descanso" a organizar esa información. No olvides etiquetarla.
 * Usa gestores como **Pocket**
 * Utiliza un sistema que te permita acceder a toda la información como **Dropbox** o similar. Si te permite cuantificar tu trabajo como git, mejor que mejor.
+
+# Referencias
+
+[Lifehack: 7 productivity hacks  ](http://www.lifehack.org/469431/productivity-hacks-7-ways-to-work-smarter-not-harder)
